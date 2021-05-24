@@ -1,0 +1,36 @@
+  
+[
+    {
+        "name": "Andy",
+        "address": "Jl. B. Koetin",
+    },
+
+    {
+        "name": "Sida",
+        "address": "Jl. Sapan Raya",
+    },
+
+    {
+        "name": "Yohanes Fito",
+        "address": "Jl. G.Obos",
+    },
+
+    {
+        "name": "Yudha",
+        "address": "Jl. Rajawali",
+    },
+
+    {
+        "name": "Steven",
+        "address": "Jl. Paus",
+    },
+
+    {
+        "name": "Elnathan",
+        "address": "Jl. Sangga Buana",
+    },
+    {
+        "name": "Andy Saputra",
+        "address": "Jl. Gurame",
+    }
+]
